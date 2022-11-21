@@ -1,0 +1,14 @@
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\bin\Debug\net6.0\MISA.AMIS.KeToan.Common.deps.json
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\bin\Debug\net6.0\MISA.AMIS.KeToan.Common.dll
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\bin\Debug\net6.0\MISA.AMIS.KeToan.Common.pdb
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\MISA.AMIS.KeToan.Common.csproj.AssemblyReference.cache
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\MISA.AMIS.KeToan.Common.csproj.GenerateResource.cache
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\MISA.AMIS.KeToan.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\MISA.AMIS.KeToan.Common.AssemblyInfoInputs.cache
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\MISA.AMIS.KeToan.Common.AssemblyInfo.cs
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\MISA.AMIS.KeToan.Common.csproj.CoreCompileInputs.cache
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\MISA.AMIS.KeToan.Common.dll
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\refint\MISA.AMIS.KeToan.Common.dll
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\MISA.AMIS.KeToan.Common.pdb
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\ref\MISA.AMIS.KeToan.Common.dll
+D:\C#\MISA.AMIS.KeToan\MISA.AMIS.KeToan.Common\obj\Debug\net6.0\MISA.AMIS.KeToan.Common.Resources.Resource.resources

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aKWsFWEZdE3FKn6iznHLZgCSwkLueYaSfvFnYOhGewt7YzrRT5RF46LnYFLhT0Qfi4Kllh/LeCNF5b6kr7UlcQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\MISA.AMIS.KeToan\\MISA.AMIS.KeToan.DL\\MISA.AMIS.KeToan.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mysqlconnector\\2.2.0\\mysqlconnector.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
